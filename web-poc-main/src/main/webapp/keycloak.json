@@ -1,0 +1,8 @@
+{
+  "realm": "sso-chilecompra",
+  "auth-server-url": "https://sso-test-sso-chilecompra.apps.thor.chilecompraocp.local/auth/",
+  "ssl-required": "external",
+  "resource": "client-test",
+  "public-client": true,
+  "confidential-port": 0
+}
