@@ -1,0 +1,8 @@
+{
+  "realm": "chilecompra-dev",
+  "auth-server-url": "https://sso-chilecompra-sso-chilecompra.apps.loki.chilecompraocp.local/auth/",
+  "ssl-required": "external",
+  "resource": "cliente-3scale",
+  "public-client": true,
+  "confidential-port": 0
+}
