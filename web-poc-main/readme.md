@@ -1,1 +1,0 @@
-Aplicación base para comportamiento de RH-SSO de organización A local
