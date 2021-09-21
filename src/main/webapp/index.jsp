@@ -17,7 +17,7 @@
 <html>
 <head>
  	<!-- <script src="https://sso-terpel-gtic-sso.cloudapps.terpel.com/auth/js/keycloak.js"></script> -->
-    <script src="https://sso-chilecompra-sso-chilecompra.apps.loki.chilecompraocp.local/auth/js/keycloak.js"></script>
+    <script src="https://sso-sandbox.chilecompra.cl/auth/realms/sso-chilecompra/auth/js/keycloak.js"></script>
 </head>
 <body>
 
