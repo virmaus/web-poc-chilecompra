@@ -1,6 +1,6 @@
 {
   "realm": "sso-chilecompra",
-  "auth-server-url": "https://sso-sandbox.chilecompra.cl/auth/",
+  "auth-server-url": "https://sso-test-sso-chilecompra.apps.thor.chilecompraocp.local/auth/",
   "ssl-required": "external",
   "resource": "cliente-poc",
   "public-client": true,
